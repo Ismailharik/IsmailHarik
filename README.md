@@ -13,7 +13,7 @@
 <img align="right" height="150" src="https://media-exp1.licdn.com/dms/image/C4D03AQEi3_gb_B-RoA/profile-displayphoto-shrink_800_800/0/1649195779151?e=1665619200&v=beta&t=OasdowP_nXttxX1dxuVfurG4oIxDQcLOdr91YhIENrA"  />
 
 ###
-
+<p>I code with </p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
