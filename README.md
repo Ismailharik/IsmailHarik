@@ -47,7 +47,8 @@
 ###
 
 <br clear="both">
-
-<img href="https://raw.githubusercontent.com/Ismailharik/Ismailharik/blob/output/snake.svg" alt="Snake animation" />
-
+outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 ###
