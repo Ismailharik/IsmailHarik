@@ -13,7 +13,7 @@
 <img align="right" height="150" src="https://media-exp1.licdn.com/dms/image/C4D03AQEi3_gb_B-RoA/profile-displayphoto-shrink_800_800/0/1649195779151?e=1665619200&v=beta&t=OasdowP_nXttxX1dxuVfurG4oIxDQcLOdr91YhIENrA"  />
 
 ###
-<h2>I code with </2><br><br><br>
+<h2>I code with </2><br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
@@ -30,7 +30,7 @@
 </div>
 
 ###
-
+<h2>I'm Active in </2><br><br>
 <div align="left">
   <a href="https://www.youtube.com/channel/UC1wO94tRk629HMxEpzSEyUA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
