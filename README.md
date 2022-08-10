@@ -8,11 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Ismailharik" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img style="margin-top:40px" align="right" height="150" src="https://media-exp1.licdn.com/dms/image/C4D03AQEi3_gb_B-RoA/profile-displayphoto-shrink_800_800/0/1649195779151?e=1665619200&v=beta&t=OasdowP_nXttxX1dxuVfurG4oIxDQcLOdr91YhIENrA"  />
+##
 
-###
 <h2>I code with </2><br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
