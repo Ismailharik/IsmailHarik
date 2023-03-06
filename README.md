@@ -1,5 +1,5 @@
 
-<h3 align="left">Hi 👋! I'm Ismail Harik and I'm a full stack java/angular, DevSecOps Enthusiast  , engineering student , previous Moroccan champion on many sports such as Jiu jitsu , Sambo, judo and much more , I live in  Casablanca Morocco</h3>
+<h3 align="left">Hi 👋! I'm Ismail Harik  I'm a full stack java/angular, DevSecOps Enthusiast  , engineering student , previous Moroccan champion on many sports such as Jiu jitsu , Sambo, judo and much more , I live in  Casablanca Morocco</h3>
 
 ###
 
