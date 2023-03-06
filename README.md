@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Ismail Harik and I'm a full stack java/angular , engineering student , from Casablanca Morocco</h2>
+<h2 align="left">Hi 👋! I'm Ismail Harik and I'm a full stack java/angular , engineering student , previous Moroccan champion on many sports such as Jiu jitsu , Sambo, judo and much more , I live in  Casablanca Morocco</h2>
 
 ###
 
