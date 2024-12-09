@@ -1,5 +1,5 @@
 
-<h3 align="left">Hi 👋! I'm Ismail Harik  I'm a full stack java/angular, DevSecOps Enthusiast  , engineering student ,I focus more on backend development, I live in  Casablanca Morocco</h3>
+<h3 align="left">Hi 👋! I'm Ismail Harik  I'm a Software Engineer specialized on full stack java/angular, DevSecOps Enthusiast, I focus more on backend development, I live in  Casablanca Morocco</h3>
 
 ###
 
